@@ -1,0 +1,359 @@
+    1  sudo apt install open jdk -11-jdk
+    2  sudo apt install openjdk-11-jdk
+    3  sudo snap install intellij-idea-community --classic
+    4  sudo snap install intellij-idea-community
+    5  sudo apt installjdk-11-jdk
+    6  /idea.sh
+    7  cd /idea.sh
+    8  cd ./idea.sh
+    9  /bin
+   10  sudo snap install intellij-idea-community --classi
+   11  sudo apt install -y
+   12  sudo snap install intellij-idea-community --classic
+   13  sudo snap install intellij-idea-ultimate
+   14  clear
+   15  sudo apt install -y default-jdk
+   16  wget https://download.jetbrains.com/idea/ideaIC-2019.1-jbr11.tar.gz
+   17  sudo snap install intellij-idea-ultimate
+   18  sudo snap install intellij-idea-community
+   19  sudo snap install intellij-idea-community --classic
+   20  sudo apt install intellij-idea-community
+   21  sudo apt install intellij-idea-ultimate
+   22  sudo apt install intellij-idea-community
+   23  sudo snap install intellij-idea-community --classic
+   24  sudo snap install intellij-idea-community
+   25  sudo apt install openjdk-11-jdk
+   26  clear\
+   27  sudo apt install openjdk-11-jdk
+   28  sudo snap install intellij-idea-community --classic
+   29  sudo snap install intellij-idea-ultimate --classic
+   30  sudo apt install openjdk-11-jdk
+   31  ls
+   32  pwd
+   33  mkdir workspace
+   34  cd workspace
+   35  ls
+   36  touch README.md
+   37  touch CHANGELOG.md
+   38  ls -usr
+   39  whoami
+   40  cat workspace
+   41  cd workspace
+   42  ls
+   43  cat README.md
+   44  finger
+   45  clear
+   46  ../
+   47  cd ../
+   48  ls echo
+   49  help echo
+   50  clear
+   51  ls -IF
+   52  ls -l
+   53  stat -c%F workspace
+   54  id
+   55  clear
+   56  tee exercise.md
+   57  ls -l
+   58  rm -rf exercise.md
+   59  ls
+   60  ls -l
+   61  touch exercise.md
+   62  mv exercise.md /tmp
+   63  ls
+   64  ls -l
+   65  cat /tmp
+   66  cd /tmp
+   67  ls
+   68  ~
+   69  rm -rf /tmp/exercise.md
+   70  ls
+   71  clear
+   72  cd ../
+   73  touch umuzi.md 
+   74  ls/root
+   75  touch umuzi.md
+   76  cd workspace
+   77  ls
+   78  cd ../
+   79  ls
+   80  mkdir
+   81  clar
+   82  clear
+   83  mkdir workspace
+   84  root
+   85  ls/root
+   86  ls /root
+   87  ls
+   88  touch umuzi.md
+   89  touch recruit.md
+   90  touch cohort.md
+   91  ls
+   92  echo umuzi.md "this is a free space "
+   93  echo cohort.md "we are the future"
+   94  cat umuzi.md > cohort > recruit.md
+   95  cat recruit.md
+   96  cd recruit.md
+   97  cat umuzi.md | recruit.md
+   98  ls
+   99  echo umuzi.md
+  100  ls
+  101  clear
+  102  ls
+  103  cat umuzi.md
+  104  rm -rf umuzi.md
+  105  rm -rf cohort.md
+  106  rm -rf recruit.md
+  107  ls
+  108  ls cohort
+  109  rm -rf cohort
+  110  ls
+  111  cd workspace
+  112  tee umuzi.md
+  113  ls
+  114  cd workspace
+  115  ls
+  116  echo umuzi.md "this is a free space"
+  117  ca umuzi.md
+  118  cat umuzi.md
+  119  rm -rf umuzi.md
+  120  ls
+  121  tee umuzi.md
+  122  cat umuzi.md
+  123  clear
+  124  ls
+  125  touch cohort.md
+  126  tee cohort.md
+  127  cat cohort.md
+  128  tee cohort.md
+  129  cat cohort,md
+  130  cat cohort.md
+  131  cat cohort.md | summary.md
+  132  touch summary.md
+  133  cat cohort.md | summary.md
+  134  clear
+  135  ls
+  136  ls summary.md
+  137  cat cohort.md >summary.md
+  138  cat summary.md
+  139  tee umuzi.md
+  140  cat umuzi.md > summary.md
+  141  cat summary.md
+  142  touch recruit.md
+  143  tee recruit.md
+  144  cat umuzi.md | summary.md
+  145  cat umuzi.md > cohort.md > recruit.md >summary.md
+  146  clear
+  147  cat summary
+  148  cat summay.md
+  149  ls
+  150  cat summary.md
+  151  cat recruit.md
+  152  cat cohort.md
+  153  tee cohort.md
+  154  cat umuzi.md > cohort.md >summary.md
+  155  cat summary,md
+  156  summary.md
+  157  cat summary.md
+  158  cat umuzi.md cohort.md recruit.md
+  159  cat umuzi.md.cohort.md.recruit.md
+  160  cat umuzi.md.cohort.md.recruit.md>./summary.md
+  161  cd ../
+  162  ls
+  163  ls -l
+  164  cd workspace
+  165  cat umuzi.md cohort.md recruit.md >all.md
+  166  cat all.md
+  167  cat cohort.md
+  168  tee cohort.md
+  169  tee recruit.md
+  170  cat umuzi.md cohort.md recruit.md > all.md
+  171  cat all.md
+  172  cat all.md > summary.md
+  173  cat summary.md
+  174  echo summay.md "The End "
+  175  cat summay.md
+  176  cat summary.md
+  177  echo "The end ">>summary.md
+  178  cat summary.md
+  179  cd ../
+  180  locate umuzi.md
+  181  ls
+  182  locate -c umuzi.md
+  183  locate /tmp
+  184  locate cohort.md
+  185  locate umuzi.md >> search_result.md
+  186  cat search_result.md
+  187  cd documents
+  188  ls
+  189  cd Documents
+  190  touch pad.md
+  191  cd Desktop
+  192  cd ../
+  193  cd Desktop
+  194  mkdir work
+  195  cd ../
+  196  Documents
+  197  cd Documents
+  198  mv pad.md /Desktop/work
+  199  mv pad.md /work
+  200  mv -rf pad.md /Desktop/work
+  201  mv --help
+  202  mv pad.md /Desktop/work
+  203  cd 
+  204  ls
+  205  cd
+  206  cd ~
+  207  cd ~/Desktop
+  208  ls
+  209  cd ~/work
+  210  cat wok
+  211  cat work
+  212  cd work
+  213  ls
+  214  mv pad.md /work
+  215  mv pad.md ~/work
+  216  cd ~/
+  217  Documents
+  218  cd Documents
+  219  ls
+  220  cp pad.md /Documents/
+  221  cp pad.md ~/Desktop/work
+  222  ls
+  223  cd ~/
+  224  cd Desktop
+  225  ls
+  226  cd work
+  227  ls
+  228  mv pad.md pad_copy.md
+  229  ls
+  230  locate updatedb
+  231  (cd -)
+  232  locate pad_copy.md
+  233  ls
+  234  cd
+  235  find./ pdf
+  236  find ./*.pdf/-name
+  237  find ~ "*.pdf"
+  238  find ~/-name *.pdf
+  239  ls
+  240  cd Downloads
+  241  ls
+  242  find ~/ -name *pdf
+  243  mv  Trumpet Scales.pdf /Desktop
+  244  mv /home/recruit/Downloads/Trumpet Scales.pdf /workspace
+  245  clear
+  246  ls
+  247  mv Trampet Scales.pdf /~.Desktop
+  248  mv Trumpet Scales /tmp
+  249  cd ~
+  250  mv /Downloads/Trumpet Scales /workspace
+  251  ls
+  252  cat search_result.md
+  253  tee search_result.md
+  254  cat search_result.md
+  255  echo "The End">>search_result.md
+  256  cat search_result.md
+  257  clear
+  258  locate Trumpet Scales.pdf
+  259  cleat
+  260  clear
+  261  cd Downloads
+  262  ls
+  263  mv 'Trumpet Scales.pdf' /workspace
+  264  cd 
+  265  cd
+  266  mv ~/Downloads/'Trumpet Scales.pdf' ~/workspace
+  267  ls
+  268  cd workspace
+  269  ls
+  270  cd
+  271  find .-mtime -1 -print 
+  272  find .-mtime -print
+  273  find .-mtime -1 -print
+  274  find .-mtime -l -print
+  275  ls -al
+  276  clear
+  277  find . -maxdepth 1 newermt "2020-1-16"
+  278  find . -maxdepth 1 -newermt "2020-01-16"
+  279  nano 
+  280  ls
+  281  mkir my_files.md
+  282  mkdir my_files.md
+  283  ls
+  284  mv my_bio.md /my_files.md
+  285  mv my_bio.md my_files.md
+  286  cd my_files.md
+  287  ls
+  288  clear
+  289  cd
+  290  clear
+  291  locate umuzi.md
+  292  locate umuzi.md >>search_result.md
+  293  cd search_result.md
+  294  cat search_result.md
+  295  mkdir git-basic-exercises
+  296  cd git-basic-exercises
+  297  ls -a
+  298  git init
+  299  ls -a
+  300  git status
+  301  touch README.md
+  302  ls -a
+  303  git status
+  304  git log
+  305  git add README.md
+  306  git status
+  307  git commit -m "initial commit"
+  308  git config --global uner.email "albert.legodi@umuzi.org"
+  309  git commit -m "initial commit"
+  310  git config user.email "albert.legodi@umuzi.org"
+  311  git config user.name "Albert-L10"
+  312  git commit -m"initial commit"
+  313  git log
+  314  q
+  315  nano README.md
+  316  cat README.md
+  317  git stats
+  318  git status
+  319  git commit -m "Second commit"
+  320  nano README.md
+  321  git commit -m "third commit"
+  322  git log
+  323  git rm --cached <README.md>
+  324  git rm --cached README.md
+  325  git status
+  326  git commit -m "initial commit"
+  327  git log
+  328  git branch
+  329  git log
+  330  git reset HEAD README.md
+  331  git log
+  332  nano README.md
+  333  git commit -m "Second commit"
+  334  git log
+  335  git status
+  336  git add README.md
+  337  git commit -m "Second commit"
+  338  git log
+  339  q
+  340  git checkout
+  341  cat README.md
+  342  git checkout master
+  343  cat README.md
+  344  git checkout b1758c9dc612bdfdc20e66ed1ee4000b09e6732b 
+  345  q
+  346  cat README.md
+  347  git branch milkshake-flavours
+  348  git branch
+  349  git checkout milkshake-flavours
+  350  nano milkshake-flavours
+  351  git status
+  352  git commit -m "Added initial Flavours"
+  353  git add milkshake-flavours
+  354  git commit -m "Added initial Flavours"
+  355  git log
+  356  git checkout master
+  357  git branch history
+  358  git log
+  359  history > history.txt
